@@ -2,7 +2,7 @@
 #include <fstream>
 using namespace std;
 
-// Bugs introduced: ND
+// Bugs Introduced: ND
 
 int main() {
     // opens a file to write to
