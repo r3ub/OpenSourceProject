@@ -1,5 +1,5 @@
 /*
-    syntax errors, logic error, runtime error
+    bugs introduced / RT
 */
 
 #include <iostream>
