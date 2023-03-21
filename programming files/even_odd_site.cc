@@ -2,6 +2,8 @@
 #include <fstream>
 using namespace std;
 
+// Bugs introduced: ND
+
 int main() {
     // opens a file to write to
     ofstream file;
