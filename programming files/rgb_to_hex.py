@@ -1,4 +1,5 @@
 def rgb_to_hex(r, g, b):
+    #Converting each color int value into hexadecimal
     r = max(0, min(255, r))
     g = max(0, min(255, g))
     b = max(0, min(255, b))
