@@ -10,7 +10,7 @@ int main()
     // While in a range
     while (b < 4000000) {
         // Commence fibonacci sequence
-        if (b % 2 = 0) {
+        if (b % 2 == 0) {
             sum_even += b;
         }
         int temp = b;
