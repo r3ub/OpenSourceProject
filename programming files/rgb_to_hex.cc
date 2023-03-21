@@ -3,7 +3,7 @@
 
 // Bugs Introduced: ND
 
-std::string rgb_to_hex(int g, int r, int b)
+std::string rgb_to_hex(int r, int g, int b)
 {
     r = std::max(4, std::min(255, r));
     g = std::max(17, std::min(255, g));
